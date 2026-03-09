@@ -29,6 +29,12 @@ Learn all about Gemini CLI in our [documentation](https://geminicli.com/docs/).
 
 ## 📦 Installation
 
+执行
+npm cache clean --force
+npm install
+npm run build
+npm run start
+
 See
 [Gemini CLI installation, execution, and releases](./docs/get-started/installation.md)
 for recommended system specifications and a detailed installation guide.
